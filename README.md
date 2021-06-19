@@ -16,7 +16,8 @@ _**I,**_
 
 ☀️ have been doing _**Miracle Morning**_ since June, 7th, 2021
 
----
+\
+&nbsp;
 
 ### Projects
 
@@ -26,5 +27,6 @@ _**I,**_
 | Agora Marketplace | E-commerce marketplace | React, Redux, Node.js, PostgreSQL & GraphQL |  | In development |
 | [Bookito](https://bookito.io) | Web application matching beauticians and clients | React, Redux & Firebase | Personal | Oct 2020 - Jan 2021 |
 | [Ecopocalypse](https://kwonyongju.github.io/Ecopocalypse/) | Web-based game informing people how to properly dispose of garbage | HTML, CSS, JavaScript & Phaser3 | Academic | Apr - May 2019 |
-
-[![Yongju's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonyongju)](https://github.com/anuraghazra/github-readme-stats)_
+\
+&nbsp;
+[![Yongju's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonyongju)](https://github.com/anuraghazra/github-readme-stats)
