@@ -29,4 +29,5 @@ _**I,**_
 | [Ecopocalypse](https://kwonyongju.github.io/Ecopocalypse/) | Web-based game informing people how to properly dispose of garbage | HTML, CSS, JavaScript & Phaser3 | Academic | Apr - May 2019 |
 \
 &nbsp;
+
 [![Yongju's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonyongju)](https://github.com/anuraghazra/github-readme-stats)
