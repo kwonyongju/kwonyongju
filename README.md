@@ -20,7 +20,7 @@ _**I,**_
 ### Projects
 | Name | Description | Tech Stack | Type |  |
 |:---:|:---:|:---:|:---:|:---|
-| [Jarvis](https://www.yongju-kwon.com/jarvis) | REST API (Order/Inventory Management System) | Spring, Spring Boot, React | Personal | In development |
+| [Jarvis](https://www.yongju-kwon.com/jarvis) | REST API (Order/Inventory Management System) | Spring, Spring Boot, React, AWS | Personal | Jun - Jul 2021 |
 | Agora Marketplace | E-commerce marketplace | React, Redux, Node.js, PostgreSQL & GraphQL |  | In development |
 | [Bookito](https://bookito.io) | Web application matching beauticians and clients | React, Redux & Firebase | Personal | Oct 2020 - Jan 2021 |
 | [Ecopocalypse](https://kwonyongju.github.io/Ecopocalypse/) | Web-based game informing people how to properly dispose of garbage | HTML, CSS, JavaScript & Phaser3 | Academic | Apr - May 2019 |
