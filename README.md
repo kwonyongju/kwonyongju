@@ -4,7 +4,7 @@ _**Who am I ?**_
 
 _**I,**_ 
 
-💳 am currently working as a Software Engineer I @ Mastercard
+💳 am currently working as a Senior Software Engineer @ Mastercard
 
 🏫 graduated from _**British Columbia Institute of Technology**_ with a major in _**Computer System Technology**_ in May, 2021
 
